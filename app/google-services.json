@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706807062689",
+    "firebase_url": "https://instfirebs26082019.firebaseio.com",
+    "project_id": "instfirebs26082019",
+    "storage_bucket": "instfirebs26082019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706807062689:android:f89f60f0a21a05c4",
+        "android_client_info": {
+          "package_name": "com.mesutdag.instfirebs26082019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706807062689-sftstv2v9ask3rcthnt8rhsdghppi7g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCvlhyYRlV-m-IGpqVoVvPQXULMyQYuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706807062689-sftstv2v9ask3rcthnt8rhsdghppi7g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
